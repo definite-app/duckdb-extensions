@@ -1,3 +1,0 @@
-[submodule "duckdb_gsheets"]
-	path = duckdb_gsheets
-	url = git@github.com:definite-app/duckdb_gsheets.git
